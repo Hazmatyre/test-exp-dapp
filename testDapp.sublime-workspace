@@ -1,0 +1,641 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"int\tint"
+			],
+			[
+				"protecte",
+				"protected\tprotected"
+			],
+			[
+				"name",
+				"namespace\tnamespace"
+			],
+			[
+				"nam",
+				"namespace\tnamespace"
+			],
+			[
+				"game",
+				"gameObjectPrefab\tGameObject"
+			],
+			[
+				"Destr",
+				"DestroyImmediate"
+			],
+			[
+				"pref",
+				"prefabSystem"
+			],
+			[
+				"gameobject",
+				"gameObjectPrefab"
+			],
+			[
+				"Ne",
+				"networkEntity"
+			],
+			[
+				"gameOb",
+				"gameObjectPrefab"
+			],
+			[
+				"gameob",
+				"gameObjectPrefabs"
+			],
+			[
+				"Bytes16",
+				"Bytes16ToGuid"
+			],
+			[
+				"entity",
+				"entityCommandBuffer"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".lando.yml",
+			"settings":
+			{
+				"buffer_size": 1910,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"lsp",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ls",
+				"LSP: Next Diagnostic"
+			],
+			[
+				"lsp enav",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"outline",
+				"Browse Mode: Outline (Right)"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"oultine",
+				"Outline: Toggle Sort"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"syntax mark",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"set syntax C",
+				"Set Syntax: C#"
+			],
+			[
+				"syntax",
+				"Set Syntax: C++"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 112.0,
+		"history":
+		[
+			"view.settings().get(\"syntax\")",
+			"sefsef"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"//wsl$/Ubuntu/home/hazmatyre/work/testDapp/.gitignore",
+		"/C/Program Files (x86)/BetterHash/Cores/xmrig-cpu/config.json",
+		"/C/Apps/xmrig-6.7.1/config.json",
+		"/C/Users/derps/.ssh/id_ed25519",
+		"//wsl$/Ubuntu/home/hazmatyre/work/plusgroup/.gitignore",
+		"//wsl$/Ubuntu/home/hazmatyre/work/plusgroup/package-lock.json",
+		"//wsl$/Ubuntu/home/hazmatyre/work/plusgroup/wordpress/wp-cli.yml",
+		"//wsl$/Ubuntu/home/hazmatyre/work/plusgroup/gatsby/public/index.html",
+		"//wsl$/Ubuntu/home/hazmatyre/work/plusgroup/gatsby/public/render-page.js",
+		"/C/Users/derps/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/settings.json",
+		"/C/Users/derps/Downloads/xmrig-6.7.1-msvc-cuda10_2-win64/xmrig-6.7.1/config.json",
+		"/C/Work/wp-test/dev.env",
+		"/C/Work/wp-test/.lando.yml",
+		"/C/Work/plusgroup/.gitignore",
+		"/C/Work/wp-test/wordpress/.env - Copy.example",
+		"/C/Work/plusgroup/wordpress/wp-config-sample.php",
+		"/C/Work/wp-test/wordpress/web/wp-config.php",
+		"/C/Work/wp-test/wordpress/web/index.php",
+		"/C/Work/wp-test/wordpress/config/application.php",
+		"/C/Work/wp-test/.env",
+		"/C/Work/wp-test/wordpress/.env.example",
+		"/C/Work/wp-test/wordpress/.env",
+		"/C/Work/wp-test/app/.gitignore",
+		"/C/Work/wp-test/name example.yaml",
+		"/C/Work/wp-test/.lando.yaml",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/ssell C_Controller/Systems/CharacterControllerSystem.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Prototype/Systems/HybridUtils/ManagedGameObjectSystem.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Scripts/ECS/NetworkTransform/TransformMessage.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Scripts/ECS/NetworkClient/NetworkClientSystem.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Prototype/Systems/PlayerAutoJoin/JoinWorldMessage.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Scripts/ECS/NetworkTransform/TransformClientMessageSystem.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Scripts/ECS/NetworkTransform/NetworkTransformServerSystem.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Scripts/Authoring/NetworkTransformServerSystemAuthoring.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Scripts/ECS/NetworkTransform/TransformServerMessageSystem.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Scripts/ECS/NetworkTransform/NetworkTransformClientSystem.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Scripts/Authoring/NetworkTransformClientSystemAuthoring.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Scripts/ECS/NetworkTransform/NetworkTransform.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Scripts/Authoring/NetworkTransformAuthoring.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Scripts/ECS/NetworkServer/NetworkServerSystem.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Examples/Chat/Scripts/ChatMessage/ChatMessageServerSystemAuthoring.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Examples/Chat/Scripts/ChatMessage/ChatMessageClientSystemAuthoring.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Examples/Chat/Scripts/ChatMessage/ChatMessage.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Scripts/ECS/Messaging/NetworkMessage.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Scripts/Authoring/TransformClientMessageSystemAuthoring.cs",
+		"/C/Work/MMOPrototype/punished-ecs.proj.sublime-project",
+		"/C/Users/derps/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/OmniSharpSublime.sublime-settings",
+		"/C/Users/derps/AppData/Roaming/Sublime Text 3/Packages/User/OmniSharpSublime.sublime-settings",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Scripts/ECS/NetworkServer/NetworkBroadcastSystem.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Prototype/Systems/PlayerAutoJoin/AutoJoinWorldSystemAuthoring.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Prototype/Systems/Server/PrototypeServerSystemAuthoring.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Plugins/ECSEntityBuilder/EntityManagerWrapper.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Scripts/Authoring/NetworkServerAuthoring.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Library/PackageCache/com.unity.cinemachine@2.6.3/Runtime/Behaviours/CinemachineBrain.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Prototype/Systems/Movement/PlayerMovement.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Plugins/MotionMatching/Code/UTIL/FSM/FSM.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Plugins/MotionMatching/Code/UTIL/FSM/FSMState.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Plugins/MotionMatching/Demo/Code/Vault System/VaultDetector.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Library/PackageCache/com.unity.entities@0.14.0-preview.19/Unity.Entities/EntityManagerAccessComponentData.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Library/PackageCache/com.unity.entities@0.14.0-preview.19/Unity.Entities/EntityDataAccess.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Plugins/MotionMatching/Code/MxM/Data/Events/MxMEventDefinition.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Library/PackageCache/com.unity.physics@0.4.1-preview/Unity.Physics.Hybrid/Components/PhysicsShapeAuthoring.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Scripts/ECS/PrefabSystem/PrefabSystem.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Examples/Physics/Scripts/Movement/MovementClientSystemAuthoring.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Scripts/Authoring/SpawnMessageSystemAuthoring.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Scripts/ECS/InterestManagement/SpawnMessageSystem.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Scripts/ECS/Messaging/NetworkClientMessageSystem.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Scripts/ECS/Transport/Transports/kcp/DOTSNET/KcpTransportClientAuthoring.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Scripts/Authoring/BruteForceInterestManagementSystemAuthoring.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Scripts/ECS/Worlds/ConvertToNetworkEntity.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Library/PackageCache/com.unity.entities@0.14.0-preview.19/Unity.Entities.Hybrid/ConvertToEntity.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Library/PackageCache/com.unity.entities@0.14.0-preview.19/Unity.Transforms.Hybrid/CopyTransformFromGameObjectSystem.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Prototype/Components/DisableEntityOnConvert.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Scripts/Authoring/PrefabSystemAuthoring.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Scripts/Authoring/NetworkEntityAuthoring.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Scripts/ECS/Messaging/NetworkServerMessageSystem.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Plugins/MotionMatching/Demo/Code/ExampleDemoInput.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Plugins/MotionMatching/Code/MxM/Runtime/Components/Trajectory/MxMTrajectoryGenerator_BasicAI.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Scripts/ECS/Transport/Transports/libuv/libuv2k/Common/Framing.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Examples/Pong/Scripts/Racket/RacketMovementClientSystemAuthoring.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Scripts/Authoring/TransformServerMessageSystemAuthoring.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/ssell C_Controller/Components/PlayerControllerComponentView.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/ssell C_Controller/Systems/CameraFollowSystem.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/ssell C_Controller/Components/CameraFollowComponentView.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/ProjectSettings/InputManager.asset",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Prototype/Systems/PlayerAutoJoin/JoinWorldMessageSystemAuthoring.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/ssell C_Controller/Systems/PlayerControllerSystem.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/ssell C_Controller/Components/CharacterControllerComponentView.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Prototype/Systems/Movement/MovableSystem.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Prototype/Systems/HybridUtils/ManagedCharacterSystem.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Examples/Pong/Scripts/Ball/BallRemoveClientPhysicsSystemAuthoring.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Examples/Pong/Scripts/JoinWorld/AutoJoinWorldSystemAuthoring.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Examples/Pong/Scripts/PongServer/PongServerSystemAuthoring.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Examples/Pong/Scripts/JoinWorld/JoinWorldMessageSystemAuthoring.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Library/PackageCache/com.unity.timeline@1.3.4/Editor/Window/TimelineWindowTimeControl.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/StandaloneDemo/Scripts/PlayerController.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/StandaloneDemo/Scripts/PlayerStates/JumpState.cs",
+		"/C/Work/MMOPrototype/snippets/MxM Knight Demo/Scripts/PlayerStates/CombatState.cs",
+		"/C/Work/MMOPrototype/snippets/MxM Knight Demo/Scripts/Actions/Action.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Plugins/MotionMatching/Code/MxM/Runtime/MxMAnimator/MxMAnimator_Events.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Plugins/MotionMatching/Code/MxM/Runtime/Components/Extensions/MxMEventLayers.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Plugins/MotionMatching/Demo/Code/Vault System/EVaultType.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Plugins/MotionMatching/Demo/Code/Vault System/VaultDefinition.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Plugins/MotionMatching/Code/MxM/Editor/Inspectors/MxMAnimatorInspector.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Plugins/MotionMatching/Code/MxM/Runtime/MxMAnimator/MxMAnimator.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Plugins/MotionMatching/Code/MxM/Enumerations/EEventState.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Plugins/MotionMatching/Code/MxM/Data/Events/EventData.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Plugins/MotionMatching/Code/MxM/Runtime/MxMAnimator/MxMAnimator_Tags.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Plugins/MotionMatching/Code/MxM/Runtime/Components/Trajectory/MxMTrajectoryGenerator.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Plugins/MotionMatching/Code/MxM/Runtime/Components/Trajectory/MxMTrajectoryGeneratorBase.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Plugins/MotionMatching/Demo/Code/LocomotionSpeedRamp.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Plugins/MotionMatching/Code/MxM/Editor/Data/Modules/TagNamingModule.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Plugins/MotionMatching/Code/MxM/Editor/Data/Modules/EventNamingModule.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Library/PackageCache/com.unity.entities@0.14.0-preview.19/Unity.Entities/EntityManager.Deprecated.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Library/PackageCache/com.unity.entities@0.14.0-preview.19/Unity.Entities/EntityManager.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Library/PackageCache/com.unity.entities@0.14.0-preview.19/Unity.Entities/ExclusiveEntityTransaction.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Library/PackageCache/com.unity.entities@0.14.0-preview.19/CHANGELOG.md",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Prototype/Prefabs/TemplateCharacter.prefab",
+		"/C/Users/derps/AppData/Local/Temp/Temp1_Editor.zip/Editor/Editor/CreateConstruct.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Examples/Pong/Scripts/JoinWorld/JoinWorldMessage.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Library/PackageCache/com.unity.entities@0.14.0-preview.19/Unity.Entities.Hybrid/GameObjectConversion/JournalingUnityLogger.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Prototype/Systems/PlayerAutoJoin/JoinWorldMessageSystem.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/DOTSNET/Examples/Benchmark/Scripts/JoinWorld/JoinWorldMessage.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Prototype/Components/ManagedGameObjectAuthoring.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Prototype/Components/Movable.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Prototype/Components/PlayerControllable.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Prototype/Components/PlayerControllableUnregistered.cs",
+		"/C/Work/MMOPrototype/prototype-ecs/Assets/Prototype/Systems/Server/NetworkServerSystemAuthoring.cs",
+		"/C/Users/derps/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/Default.sublime-keymap"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"C:\\Work\\MMOPrototype\\prototype-ecs\\Assets\\DOTSNET",
+			"C:\\Work\\MMOPrototype\\snippets\\MxM Knight Demo",
+			"C:\\Work\\MMOPrototype\\prototype-ecs\\Assets\\Plugins\\MotionMatching",
+			"C:\\Work\\MMOPrototype\\prototype-ecs\\Library\\PackageCache\\com.unity.entities@0.14.0-preview.19",
+			"C:\\Work\\MMOPrototype\\prototype-ecs\\Assets\\DOTSNET",
+			"C:\\Work\\MMOPrototype\\prototype-ecs\\Assets\\DOTSNET\\Examples\\Pong",
+			"C:\\Work\\MMOPrototype\\prototype-ecs\\Assets\\DOTSNET",
+			"C:\\Work\\MMOPrototype\\prototype-ecs\\Library\\PackageCache\\com.unity.entities@0.14.0-preview.19",
+			"C:\\Work\\MMOPrototype\\prototype-ecs",
+			"C:\\Work\\MMOPrototype\\Attempt1\\Assets\\Plugins\\ECSEntityBuilder",
+			"C:\\Work\\Unity.Animation.Samples\\UnityAnimationHDRPExamples\\Assets\\Scenes\\Advanced\\AnimationController"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"wp-cli",
+			"appserver",
+			"wordpress",
+			"clear",
+			"cache_",
+			"custom",
+			"graphql",
+			"nvml",
+			"appserver",
+			"environmen",
+			"tooling",
+			"production",
+			"db_name",
+			"env(",
+			"db_user",
+			"env",
+			"DB_NAME",
+			"DB_name",
+			"db_name",
+			"DB_USER",
+			"db_user",
+			"getenv",
+			"db_user",
+			"cred",
+			"Serialize(",
+			"Serialize",
+			"tickInterval",
+			"tickrate",
+			"tick",
+			"delta",
+			"deltatime",
+			"step",
+			"camera",
+			"destroyall",
+			"DeltaTime",
+			"horizontalvelocity",
+			"magnitude",
+			"speed",
+			"controller.speed",
+			"currentmagni",
+			"targetpos",
+			"horizontalVelocity",
+			"handlehorizontal",
+			"query",
+			"TIME.",
+			"time",
+			"time.",
+			"elap",
+			".el",
+			"elapsed",
+			"lastSendTime",
+			"TIme",
+			"burst",
+			"native",
+			"interval",
+			"amount",
+			"m_statemachine",
+			"p_parent",
+			"input.",
+			"key",
+			"update_phase",
+			"m_statemachine",
+			"m_combatstate",
+			"action",
+			"EventDef_HeavyAttack1",
+			"Input",
+			"isvaul",
+			"event",
+			"oneventchangestate",
+			"EEventstate",
+			"iseventcomplete",
+			"isvault",
+			"event",
+			"start",
+			"event",
+			"isvaultin",
+			"evaulttype",
+			"slidedefi",
+			"public",
+			"beginevent(",
+			"deprecated",
+			"recovery",
+			"isevent",
+			"event",
+			"mxmanimator",
+			"event",
+			"burst",
+			"event",
+			"m_curstate",
+			"sliding",
+			"shift",
+			"m_isvaulting",
+			"inputvector",
+			"m_customInput",
+			"m_customINput",
+			"input.",
+			"updategeneral",
+			"updatespeedramp",
+			"m_speedtimer",
+			"Eusertags",
+			"UserTag1",
+			"Eusertags",
+			"handleCurrentvault",
+			"m_isvaulting",
+			"vaultdef",
+			"m_isvaulting",
+			"fromcommandbuffer",
+			"commandbuffer",
+			"enemylimit",
+			"onupdate",
+			"getcheckedentitydataaccess(",
+			"getcheckedentitydataaccess",
+			"getcomponentdata",
+			"getcomponent",
+			"m_manager",
+			"public T GetComponentData",
+			"getcomponent",
+			"hascomponent",
+			"hascomponent(",
+			"getcomponentdata",
+			"canvault(",
+			"vaulttype",
+			"step",
+			"m_vaultdefinition",
+			"vaultde",
+			"event",
+			"transformacces",
+			"copytransforms"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".lando.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1910,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								116,
+								116
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.diagnostics":
+	{
+		"height": 109.0
+	},
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.language servers":
+	{
+		"height": 109.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 102.0
+	},
+	"output.variable_get":
+	{
+		"height": 103.0
+	},
+	"pinned_build_system": "",
+	"project": "testDapp.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"managed",
+				"Assets\\Prototype\\Systems\\HybridUtils\\ManagedGameObjectSystem.cs"
+			],
+			[
+				"vault",
+				"Assets\\Plugins\\MotionMatching\\Demo\\Code\\Vault System\\VaultDetector.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

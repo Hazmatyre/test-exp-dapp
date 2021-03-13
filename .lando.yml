@@ -1,0 +1,49 @@
+name: plusgroup
+excludes:
+  - wordpress/vendor
+  - gatsby/node_modules
+  - gatsby/.wordpress-cache
+# env_file:
+#   - dev.env
+proxy:
+  node:
+    - testdapp.lndo.site:80
+services:
+  appserver:
+    scanner: false
+  # myservice:
+  #   type: php
+  #   xdebug: false
+  #   build: 
+      # cd wordpress && composer install
+  node:
+    type: node:12
+    globals:
+      yarn: latest
+    scanner: false
+    # command:
+      # - ls 
+      # - cd gatsby && gatsby develop -H 0.0.0.0 -p 80 
+    build:
+      # - cd gatsby && npm install
+      - yarn create eth-app frontend
+      - npm install --save opensea-js
+events:
+  post-start:
+    - node: echo "Execute this to start gatsby:"
+    - node: echo "-> lando dev"
+tooling:
+  node:
+    service: node
+  npm:
+    service: node
+  gatsby:
+    service: node
+  yarn:
+    service: node
+  dev:
+    service: node
+    description: Starts gatsby on port gatsby.lndo.site
+    dir: /app/gatsby
+    cmd:
+      - CHOKIDAR_USEPOLLING=1 gatsby develop -H 0.0.0.0 -p 80
