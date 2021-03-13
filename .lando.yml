@@ -9,8 +9,8 @@ proxy:
   node:
     - testdapp.lndo.site:80
 services:
-  appserver:
-    scanner: false
+  # appserver:
+  #   scanner: false
   # myservice:
   #   type: php
   #   xdebug: false
@@ -26,8 +26,8 @@ services:
       # - cd gatsby && gatsby develop -H 0.0.0.0 -p 80 
     build:
       # - cd gatsby && npm install
-      - yarn create eth-app frontend
-      - npm install --save opensea-js
+      # - yarn create eth-app frontend
+      # - npm install --save opensea-js
 events:
   post-start:
     - node: echo "Execute this to start gatsby:"
