@@ -25,9 +25,9 @@ services:
       # - ls 
       # - cd gatsby && gatsby develop -H 0.0.0.0 -p 80 
     build:
-      # - cd gatsby && npm install
-      # - yarn create eth-app frontend
-      # - npm install --save opensea-js
+      # - cd frontned && yarm install --force
+      - yarn create eth-app frontend
+      - npm install --save opensea-js
 events:
   post-start:
     - node: echo "Execute this to start gatsby:"
